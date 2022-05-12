@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project was created to provide an information assurance plan that gives guidance on best practices and ways for securing information systems in a typical organization (a fictitious company in this case). The plan outlines critical roles and responsibilities, risk reduction and management, critical assets, resources, and incident response/business continuity. 
 <br />
 
 
